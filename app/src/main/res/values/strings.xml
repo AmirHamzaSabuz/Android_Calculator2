@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="editText1">Enter number1 </string>
+    <string name="editText2">Enter number2</string>
+    <string name="buttonAdd">Add</string>
+    <string name="buttonSub">Sub</string>
+</resources>
